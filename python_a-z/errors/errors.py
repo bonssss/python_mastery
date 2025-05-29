@@ -1,3 +1,6 @@
+# This script demonstrates error handling in Python using try, except, else, and finally blocks.
+# It handles division by zero and invalid input errors.
+
 try:
     numerator= int(input("Enter numerator: "))
     denominator = int(input("Enter denominator: "))

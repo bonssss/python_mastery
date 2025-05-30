@@ -1,6 +1,6 @@
 import requests
 
-url ="https://api.openweathermap.org/data/2.5/weather/?q=pakistan&appid=b4aac90b73577323689d210536680923"
+url ="https://api.openweathermap.org/data/2.5/weather/?q=pakistan&appid=your_api_key_here"
 
 
 response=   requests.get(url)
